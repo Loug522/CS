@@ -1,0 +1,15 @@
+D:\CS\PJ001\LoremIpsum.Infrastructure\bin\Debug\net9.0\LoremIpsum.Infrastructure.deps.json
+D:\CS\PJ001\LoremIpsum.Infrastructure\bin\Debug\net9.0\LoremIpsum.Infrastructure.dll
+D:\CS\PJ001\LoremIpsum.Infrastructure\bin\Debug\net9.0\LoremIpsum.Infrastructure.pdb
+D:\CS\PJ001\LoremIpsum.Infrastructure\bin\Debug\net9.0\LoremIpsum.Domain.dll
+D:\CS\PJ001\LoremIpsum.Infrastructure\bin\Debug\net9.0\LoremIpsum.Domain.pdb
+D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\LoremIpsum.Infrastructure.csproj.AssemblyReference.cache
+D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\LoremIpsum.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\LoremIpsum.Infrastructure.AssemblyInfoInputs.cache
+D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\LoremIpsum.Infrastructure.AssemblyInfo.cs
+D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\LoremIpsum.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\LoremIps.E80005A9.Up2Date
+D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\LoremIpsum.Infrastructure.dll
+D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\refint\LoremIpsum.Infrastructure.dll
+D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\LoremIpsum.Infrastructure.pdb
+D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\ref\LoremIpsum.Infrastructure.dll
