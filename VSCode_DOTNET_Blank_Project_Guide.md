@@ -123,12 +123,4 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ---
 
-## ✅ Conclusion
-
-Using VS Code for .NET development makes it easy to:
-- Create and manage solutions
-- Add project references
-- Install NuGet packages
-- Debug applications
-
 **Source: [Medium Article](https://medium.com/@contact.angonchy/how-to-use-vscode-for-net-application-bbeb8f2d9feb)**
