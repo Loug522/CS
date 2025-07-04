@@ -13,3 +13,4 @@ D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\LoremIpsum.Infrastructure
 D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\refint\LoremIpsum.Infrastructure.dll
 D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\LoremIpsum.Infrastructure.pdb
 D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\ref\LoremIpsum.Infrastructure.dll
+D:\CS\PJ001\LoremIpsum.Infrastructure\obj\Debug\net9.0\LoremIpsum.Infrastructure.sourcelink.json

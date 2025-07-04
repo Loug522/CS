@@ -1,4 +1,16 @@
-var builder = WebApplication.CreateBuilder(args);
+
+using LoremIpsum.Infrastructure;
+
+List<int> myList = new();
+myList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+int myRes = Class1.LinearSearch(myList, 10);
+Console.WriteLine(Class1.TestResult(myRes));
+
+
+
+
+/* var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -38,7 +50,4 @@ app.Run();
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}
-
-
- 
+} */

@@ -9,3 +9,4 @@ D:\CS\PJ001\LoremIpsum.Domain\obj\Debug\net9.0\LoremIpsum.Domain.dll
 D:\CS\PJ001\LoremIpsum.Domain\obj\Debug\net9.0\refint\LoremIpsum.Domain.dll
 D:\CS\PJ001\LoremIpsum.Domain\obj\Debug\net9.0\LoremIpsum.Domain.pdb
 D:\CS\PJ001\LoremIpsum.Domain\obj\Debug\net9.0\ref\LoremIpsum.Domain.dll
+D:\CS\PJ001\LoremIpsum.Domain\obj\Debug\net9.0\LoremIpsum.Domain.sourcelink.json
