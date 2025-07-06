@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoremIpsum.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a593030690370952557355e6525f9b21b823e21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8725bba1e9c5e8c7b08eb3ee0f8abd2a52b21ccd")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoremIpsum.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoremIpsum.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

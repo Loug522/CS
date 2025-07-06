@@ -1,23 +1,23 @@
 ﻿
 namespace LoremIpsum.Infrastructure;
 
-public class Class1
+public class Searches
 {
     public static int LinearSearch(List<int> list, int target)
     {
-        int result = -1;
+        int targetIndex = 0;
         for (var i = 0; i < list.Last(); i++)
         {
-            if (list[i] == target) result = target;
+            if (list[i] == target) targetIndex = i;
         }
-        return result;
+        return targetIndex;
     }
 
     public static string TestResult(int result)
     {
         string myRes = "";
-        if (result < 0) myRes = "The target was not found int the list.";
-        else myRes = $"The value {result} was found in the list.";
+        if (result <= 0) myRes = "The target was not found int the list.";
+        else myRes = $"The value was found at the index {result}.";
         
         return myRes;
     }
